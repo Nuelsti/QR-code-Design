@@ -28,7 +28,7 @@ XHTML was used to create the basic structure of the web page, addition of image,
 ### Links
 
 - Solution URL:(https://github.com/Nuelsti/QR-code-Design.git))
-
+- Live URL: (https://qr-code-design-silk.vercel.app/)
 
 ## My process
 I created the Html file and codes required, it was short because it only involved, insertion of image, and two paragraphs. 
