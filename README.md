@@ -27,8 +27,8 @@ XHTML was used to create the basic structure of the web page, addition of image,
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Nuelsti/QR-code-Design.git))
+
 
 ## My process
 I created the Html file and codes required, it was short because it only involved, insertion of image, and two paragraphs. 
